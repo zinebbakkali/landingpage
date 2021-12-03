@@ -1,0 +1,19 @@
+.banner {
+	background-image: url(../../images/backgrounddd.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 40px;
+	color: lavenderblush;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-top: 250px;
+	color:#bfffe2;
+}
